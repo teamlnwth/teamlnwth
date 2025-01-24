@@ -26,7 +26,7 @@
 
 ## ✨ Fun Facts
 - 🎵 I love listening to music while coding.
-- ✈️ Love traveling to explore new cultures.
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dgUHE8wWhiE&list=RDMMdgUHE8wWhiE&start_radio=1)
 
 ![Project Demo](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
