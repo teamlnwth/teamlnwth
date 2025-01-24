@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello! Welcome to My GitHub Profile
 
-<!--
-**teamlnwth/teamlnwth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm currently learning **Web Development** and **Machine Learning**.
+- 🔭 Working on exciting open-source projects.
+- 📫 How to reach me: [janedoe@example.com](mailto:janedoe@example.com).
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+- [🌐 My Portfolio Website](https://example.com)
+- [📱 Mobile App Project](https://github.com/janedoe/my-app)
+
+## ✨ Fun Facts
+- 🎵 I love listening to music while coding.
+- ✈️ Love traveling to explore new cultures.
