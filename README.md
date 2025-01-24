@@ -18,7 +18,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teamlnwth&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [🌐 My Portfolio Website](https://example.com)
