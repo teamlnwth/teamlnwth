@@ -1,4 +1,4 @@
-[# 👋 Hello! Welcome to My GitHub Profile](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif)
+![Project Demo](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif)
 
 ## About Me
 - 🌱 I'm currently learning **Web Development** and **Machine Learning**.
@@ -24,9 +24,6 @@
 ## ✨ Fun Facts
 - 🎵 I love listening to music while coding.
 - ✈️ Love traveling to explore new cultures.
-  # Welcome to My GitHub!
-
-Here's a quick preview of my project:
 
 ![Project Demo](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
