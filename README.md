@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 I'm currently learning **Web Development** and **Machine Learning**.
 - 🔭 Working on exciting open-source projects.
-- 📫 How to reach me: [janedoe@example.com](mailto:janedoe@example.com).
+- 📫 How to reach me: [pakawatpromhom@gmail.com].
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
