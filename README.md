@@ -24,3 +24,9 @@
 ## ✨ Fun Facts
 - 🎵 I love listening to music while coding.
 - ✈️ Love traveling to explore new cultures.
+  # Welcome to My GitHub!
+
+Here's a quick preview of my project:
+
+![Project Demo](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
