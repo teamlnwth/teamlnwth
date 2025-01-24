@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to My GitHub Profile
+[# 👋 Hello! Welcome to My GitHub Profile](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif)
 
 ## About Me
 - 🌱 I'm currently learning **Web Development** and **Machine Learning**.
