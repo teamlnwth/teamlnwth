@@ -19,8 +19,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teamlnwth&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-- [🌐 My Portfolio Website](https://example.com)
-- [📱 Mobile App Project](https://github.com/janedoe/my-app)
+- [🌐 PSU-888]
 
 ## ✨ Fun Facts
 - 🎵 I love listening to music while coding.
