@@ -1,9 +1,7 @@
 ![Project Demo](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif)
 
 ## About Me
-- 🌱 I'm currently learning **Web Development** and **Machine Learning**.
-- 🔭 Working on exciting open-source projects.
-- 📫 How to reach me: [pakawatpromhom@gmail.com].
+- i'm ironman
 
 ## 💻 Languages & Tools I Use
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
