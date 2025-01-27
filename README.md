@@ -1,7 +1,7 @@
 ![Project Demo](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif)
 
 ## About Me
-- i'm ironman
+- i'm ironman at CoE
 
 ## 💻 Languages & Tools I Use
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
