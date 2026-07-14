@@ -20,6 +20,11 @@
     <img src="https://streak-stats.demolab.com/?user=teamlnwth&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+teamlnwth!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!&color=ff5e9c&center=true&width=400&height=50" alt="Typing SVG" />
+  </a>
+</div>
 
 
 ## 📊 GitHub Stats
