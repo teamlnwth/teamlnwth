@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="100%" alt="Header Banner" />
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+teamlnwth!+%F0%9F%91%8B;Computer+Engineering+Student+@+PSU;Welcome+to+my+GitHub+Profile!&color=ff5e9c&center=true&width=500&height=50" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+teamlnwth!+%F0%9F%91%8B;Computer+Engineering+Student+@+PSU;Welcome+to+my+GitHub+Profile!&color=ff5e9c&center=true&width=500&height=50" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamlnwth&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=teamlnwth&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
-![Top Languages](https://your-deployment-url.vercel.app/api/languages)
+
 ---
 
 ## 🌟 Featured Projects
