@@ -15,7 +15,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamlnwth&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=teamlnwth&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 ## 📊 GitHub Stats
