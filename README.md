@@ -38,6 +38,7 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teamlnwth&show_icons=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamlnwth&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=teamlnwth&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
 
