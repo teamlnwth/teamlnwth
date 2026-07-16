@@ -45,10 +45,13 @@
 
 ## 🌟 Featured Projects
 * 🌐 **[PSU-888](#)** - *(Add brief description here)*
-* 🎟️ **[TicketFlow](#)** - A high-concurrency concert ticketing platform built with Next.js, Redis, and PostgreSQL.
 * 🚗 **[Car Rental Platform](#)** - A full-stack web application utilizing React and Strapi.
 * 🌡️ **[Smart CoE Monitoring](#)** - An IoT environmental monitoring system for university rooms using ESP32 and MQTT.
 
+---
+## 🚀 Live Projects
+* 🛵 **PSU Grab** - A campus delivery and ride-sharing platform for PSU students.
+  <br/> ↳ 🌐 [**Live Demo**](https://psu-grab.vercel.app/) | 👨‍💻 [**Source Code**](#)
 ---
 
 <div align="center">
